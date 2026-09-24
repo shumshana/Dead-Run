@@ -2,3 +2,4 @@ Dead Run is a side-scrolling runner game that I built for my A level Computer Sc
 This game includes features such as collision detection, scoring, player movement, game-state logic
 The design of the character in the game is inspired Japanese Ninja warriors and this character runs through every level to reach the ending gate.
 I have built this game using JavaScript, HTML and CSS.
+<!-- Failed to upload "8371 H446 03 16444 Sivalogathasan Humshana.mp4" -->
